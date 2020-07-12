@@ -18,9 +18,10 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Ahsan Ahmed
+        
         </a>
       </header>
+      <footer>COPYRIGHT 2020 DESIGN THIS WEBSITE BY:AHSAN AHMED</footer>
     </div>
   );
 }
